@@ -40,7 +40,7 @@ Here are the different categories of expected stakeholders for the Coq Platform:
 
 - Packages are typically included on user request via a github issue.
 
-- Requests should contain a justification. Example justifications are usage of the package in a regular course or a course with a large audience or usage of the package as prerequisite in at least three other packages or research developments by authors other than the author of the original package.
+- Requests should contain a justification. Example justifications are usage of the package in a regular course or a course with a large audience, usage of the package as prerequisite in at least three other packages or research developments by authors other than the author of the original package, or packages filling an arguably important niche.
 
 - The author(s) or current maintainer(s) of the package shall agree to the inclusion of their package in the Coq Platform. This means that they agree to put reasonable effort into releasing a version of the package compatible with each new Coq release shortly after every Coq release and to maintain some relative stability between each release. The agreement of the authors is given via a comment in the respective github issue.
 
