@@ -58,6 +58,14 @@ Here are the different categories of expected stakeholders for the Coq Platform:
 
 The mission of the platform editorial board is to help the curator making informed decisions about the packages that should be included in the Coq platform.  Membership in this editorial board is the result of co-optation, with representatives of the core development team, the curator, and representative users.
 
+The current members of this editorial board are:
+
+ - Reynald Affeldt
+ - Andrew Appel
+ - Yves Bertot
+ - Michael Soegrop
+ - Matthieu Sozeau
+
 ## Questions to be resolved
 
 ### Quality constraints for included packages
